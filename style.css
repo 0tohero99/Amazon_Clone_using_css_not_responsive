@@ -5,11 +5,11 @@
     font-family: Arial;
 }
 body{
-    background-color:wheat;;
-    color:  #0f1111;
+    background-color:black;;
+    /* color:  #0f1111; */
 }
 .mydark{
-    background-color: #0f1111;
+    background-color: #2b2c2c;
     color: wheat;
     
 }
