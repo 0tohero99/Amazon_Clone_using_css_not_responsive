@@ -5,12 +5,13 @@
     font-family: Arial;
 }
 body{
-    background-color: #0f1111;
-    color: wheat;
+    background-color:wheat;;
+    color:  #0f1111;
 }
 .mydark{
-    background-color:white;;
-    color:  #0f1111;
+    background-color: #0f1111;
+    color: wheat;
+    
 }
 button>i{
     font-size: 17px;
